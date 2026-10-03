@@ -4,6 +4,12 @@ Uma tela de login simples desenvolvida com **Flutter**, como parte dos meus prim
 
 Este foi o meu primeiro projeto prático utilizando Flutter. A ideia não foi criar uma aplicação completa, mas começar a entender como o Flutter funciona e colocar em prática os primeiros conceitos aprendidos.
 
+## Preview
+
+<p align="center">
+  <img src="screenshot.png" alt="Tela de login" width="280" />
+</p>
+
 ## Sobre o projeto
 
 O projeto começou a partir do template padrão do Flutter e foi sendo adaptado para criar uma tela de login simples e funcional.
